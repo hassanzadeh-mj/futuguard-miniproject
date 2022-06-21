@@ -21,5 +21,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Author
 * **Hassanzadeh Mojtaba**
-
-- See also the list of [projects](https://github.com/Hassanzadeh-mj?tab=repositories)
