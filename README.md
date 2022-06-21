@@ -18,3 +18,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [SASS](https://sass-lang.com/) - CSS preprocessor 
 - [HTML](https://html.spec.whatwg.org/) - HTML is the standard markup language  ·
 - [CSS](https://www.w3.org/) - CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts.
+
+## Author
+* **Hassanzadeh Mojtaba** - *demo website*
+
+- See also the list of [projects](https://github.com/Hassanzadeh-mj?tab=repositories)
