@@ -1,17 +1,7 @@
 # Futuguard-Mini project
-futuguard-mini project is a simple next js project
-
-# storefront
 Futuguard-mini project is a Next.js project for Futuguard's interview project
 
-## Features
-- Has 2 web pages
-- Has a header
-- Has a body
-- Has a footer
-
 ## Getting Started
-
 First, run the development server:
 
 ```bash
