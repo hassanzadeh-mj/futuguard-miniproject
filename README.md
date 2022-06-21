@@ -14,13 +14,12 @@ Futuguard-mini project is a Next.js project for Futuguard's interview project
 
 First, run the development server:
 
-`` Be
-Run the NPM program
- Or
-Development yarn
-`` 
-
-Open [http: // localhost: 3000] (http: // localhost: 3000) with your browser to see the result.
+```bash
+npm run dev
+# or
+yarn dev
+```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Technologies used
 - [JavaScript](https://www.javascript.com/) - Programming Language
