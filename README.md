@@ -13,7 +13,7 @@ First, run the development server:
 
 `` Be
 Run the NPM program
-# Or
+ Or
 Development yarn
 `` 
 
