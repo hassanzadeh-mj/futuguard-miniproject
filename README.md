@@ -20,6 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [CSS](https://www.w3.org/) - CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts.
 
 ## Author
-* **Hassanzadeh Mojtaba** - *demo website*
+* **Hassanzadeh Mojtaba**
 
 - See also the list of [projects](https://github.com/Hassanzadeh-mj?tab=repositories)
