@@ -6,6 +6,10 @@ Futuguard-mini project is a Next.js project for Futuguard's interview project
 
 ## Features
 - Easy insatllation
+- Has 2 web pages
+- Has a header
+- Has a body
+- Has a footer
 
 ## Getting Started
 
