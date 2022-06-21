@@ -27,5 +27,5 @@ Open [http: // localhost: 3000] (http: // localhost: 3000) with your browser to 
 - [REACT JS](https://reactjs.org/) - JavaScript library
 - [NEXT JS](https://nextjs.org/) - React framework
 - [SASS](https://sass-lang.com/) - CSS preprocessor 
-- [HTML] - HTML is the standard markup language  ·
-- [CSS]-CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts.
+- [HTML](https://html.spec.whatwg.org/) - HTML is the standard markup language  ·
+- [CSS](https://www.w3.org/) - CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts.
