@@ -1,5 +1,5 @@
 # Futuguard-Mini project
-Futuguard-mini project is a Next.js project for Futuguard's interview project
+Futuguard-mini project is a Next.js project for Futuguard's interview.
 
 ## Getting Started
 First, run the development server:
