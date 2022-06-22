@@ -5,7 +5,6 @@ target
 
 # dependencies
 node_modules
-package-lock.json
 yarn.lock
 !/yarn.lock
 test/node_modules
