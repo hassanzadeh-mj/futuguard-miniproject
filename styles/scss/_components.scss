@@ -1,0 +1,242 @@
+/* Header codes */
+.header_container {
+  width: 80%;
+  @include flex_wrap;
+  margin: auto;
+}
+
+.header {
+  width: 100%;
+  height: 9vh;
+  @include flex_item;
+  justify-content: space-around;
+}
+.menu {
+  text-transform: uppercase;
+  font-family: 'Nazanin', sans-serif;
+  font-size: 20px;
+  color:$color-primary;
+  @include flex_item;
+  cursor: pointer;
+  padding: 11px 10px 0px 0px;
+  &:hover {
+    pointer-events: all;
+  }
+
+  &:hover .menu_item {
+    opacity: 1;
+    top: 0px;
+  }
+  &_label {
+    cursor: pointer;
+    font-size: 30px;
+    transition: 0.2s;
+    &:hover{
+      border-bottom: none;
+    }
+  }
+  &_item {
+    margin-right: 30px;
+    opacity: 0;
+  }
+
+  &_span {
+    transition: color 0.5s ease;
+
+    &:hover span {
+      color: $color-secondary;
+    }
+  }
+}
+.menu_item:nth-child(2) {
+  transition-delay: 0.50s;
+}
+
+.menu_item:nth-child(3) {
+  transition-delay: 0.40s;
+}
+
+.menu_item:nth-child(4) {
+  transition-delay: 0.30s;
+}
+
+.menu:hover .menu_item:nth-child(2) {
+  transition-delay: 0.25s;
+}
+
+.menu:hover .menu_item:nth-child(3) {
+  transition-delay: 0.35s;
+}
+
+.menu:hover .menu_item:nth-child(4) {
+  transition-delay: 0.45s;
+}
+/* Body codes */
+.body_cardContainer {
+  width: 80%;
+  margin: auto;
+  @include flex_wrap;
+}
+
+.body_container {
+  width: 100%;
+  height: 82vh;
+  overflow: auto;
+}
+
+.card {
+  width: 30%;
+  height: 400px;
+  margin: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  &_header img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  &_body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    min-height: 200px;
+    font-family: 'Nazanin', sans-serif;
+  }
+}
+
+.body_tag {
+  border-radius: 50px;
+  font-size: 12px;
+  margin: 0;
+  color: #fff;
+  padding: 7px 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+  background-color:$color-primary;
+  transition: 0.35s;
+  &:hover {
+    background-color: #fff;
+    color:$color-primary;
+  }
+}
+.body_user {
+  margin-top: auto;
+  @include flex_item;
+}
+
+.card_footer {
+  width: 100%;
+  @include flex_item;
+  justify-content: space-between;
+  margin-top: auto;
+  padding-top: 10px;
+  align-self: flex-start;
+  border-top: 1px solid #38887B;
+}
+
+.card_syle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.body_user img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 0px 5px 0px 3px;
+}
+/* Body footer */
+.footer_container {
+  width: 100%;
+  margin: auto;
+}
+.footer_body {
+  background-color: #fff;
+  width: 80%;
+  height: 9vh;
+  margin: auto;
+  @include flex_item;
+  justify-content: space-around;
+  align-self: center;
+  color: $color-primary;
+  border-top: $color-primary 1px solid;
+}
+
+.footer_body .footer_left p {
+  color: #8f9296;
+  font-size: 14px;
+  margin: 0;
+}
+
+.footer_body p.footer_links {
+  font-size: 18px;
+  font-weight: bold;
+  color: #CBD8D5;
+  margin: 0 0 10px;
+  padding: 0;
+  transition: ease .25s;
+}
+
+.footer_body p.footer_links a {
+  display: inline-block;
+  line-height: 1.8;
+  text-decoration: none;
+  color: inherit;
+  transition: ease .25s;
+  padding: 7px 13px 0px 3px;
+}
+
+.footer_body .footer_right a {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  margin: 2px 7px 0px 2px;
+  background-color:$color-primary;
+  border-radius: 100%;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 39px;
+  transition: all .25s;
+}
+
+.footer_right a:hover:nth-child(1) {
+  background-color: #3b5998
+}
+
+.footer_right a:hover:nth-child(2) {
+  background-color: #00aced
+}
+
+.footer_right a:hover:nth-child(3) {
+  background-color: #007bb6
+}
+
+.footer_right a:hover:nth-child(4) {
+  background-color: #24292F
+}
+
+.footer_body .footer_right a:hover {
+  transform: scale(1.1);
+}
+
+.footer_body p.footer_links a:hover {
+   color:$color-primary;
+  transform: scale(1.1);
+}
+@media (max-width: 767px) {
+  .footer_body .footer_left {
+    display: none;
+    margin: 0 auto 20px;
+  }
+  .menu_item {
+    display: none;
+  }
+  .card {
+    width: 80%;
+  }
+}

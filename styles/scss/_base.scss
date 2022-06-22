@@ -1,0 +1,13 @@
+$color-primary: #38887B;
+$color-secondary: #97B1AB;
+
+@mixin flex_item {
+  display: flex;
+  align-items: center;
+}
+
+@mixin flex_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

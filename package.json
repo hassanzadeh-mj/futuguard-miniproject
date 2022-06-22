@@ -1,0 +1,29 @@
+{
+  "name": "moji",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint",
+    "svg": "svgr -d src/  src/svg"
+  },
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@svgr/cli": "^6.2.1",
+    "next": "12.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-next": "12.1.6",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}
