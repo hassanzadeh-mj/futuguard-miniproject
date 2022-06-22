@@ -1,7 +1,5 @@
 import Head from 'next/head';
-
-import styles from '../styles/Home.module.css';
-
+import Header from "../componenets/header";
 
 export default function Home() {
   return (
@@ -12,7 +10,7 @@ export default function Home() {
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    
+      <Header/>
  
     </>
   )
