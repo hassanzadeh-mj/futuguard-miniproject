@@ -1,5 +1,9 @@
 import Head from 'next/head';
+import Posts from "../componenets/Posts";
 import Header from "../componenets/header";
+
+import styles from '../styles/Home.module.css';
+
 
 export default function Home() {
   return (
@@ -11,7 +15,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header/>
- 
+      <div className={styles.body_container}>
+        <div className={styles.body_cardContainer}>
+       <Posts/>
+        </div>
+      </div>
+   
     </>
   )
 }
