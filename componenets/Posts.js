@@ -11,71 +11,71 @@ class posts extends Component {
             posts: [
                 {
                     key: 1, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                    userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 2, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                    userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 3, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                    userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 4, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                    userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 5, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                    userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 6, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                    userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 7, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 8, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 9, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 10, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 11, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     id: 12, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     id: 13, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 14, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 15, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 16, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
                 {
                     key: 17, headersrc: "https://www.newsbtc.com/wp-content/uploads/2020/06/mesut-kaya-LcCdl__-kO0-unsplash-scaled.jpg",
-                    userinfosrc: "https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo"
+                     userinfosrc: "https://s6.uupload.ir/files/20220609_180625_lnox.jpg"
                 },
             ]
         };
@@ -100,8 +100,8 @@ class posts extends Component {
                                     <img src={post.userinfosrc}
                                         alt="user" />
                                     <div className={styles.body_userInfo}>
-                                        <h5>امین اصغری</h5>
-                                        <small>فروشنده</small>
+                                        <h5>مجتبی حسن زاده</h5>
+                                        <small>front-end</small>
                                     </div>
                                 </div>
                                 <Link href="/firstpage" >

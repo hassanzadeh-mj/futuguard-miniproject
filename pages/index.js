@@ -1,10 +1,10 @@
 import Head from 'next/head';
-import Posts from "../componenets/Posts";
-import Header from "../componenets/header";
-import Footer from "../componenets/footer";
+import Posts from "componenets/Posts";
+import Header from "componenets/header";
+import Footer from "componenets/footer";
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import styles from '../styles/Home.module.css';
+import styles from 'styles/Home.module.css';
 
 
 export default function Home() {

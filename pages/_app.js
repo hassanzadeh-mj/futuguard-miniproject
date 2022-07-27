@@ -1,7 +1,7 @@
-import '../styles/globals.css'
+import 'pages/globals.css'
 import {useState}from "react"
 import { Router } from 'next/router'
-import Loader from "../componenets/Loader"
+import Loader from "componenets/Loader"
 
 function MyApp({ Component, pageProps }) {
 
